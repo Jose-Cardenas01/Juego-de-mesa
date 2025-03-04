@@ -23,3 +23,7 @@ Inicio::Inicio(Pos** baraja){
 	this->baraja=baraja;
 	Revolver(this->baraja);
 };
+
+int Inicio::getplayers(){
+	return players;
+};

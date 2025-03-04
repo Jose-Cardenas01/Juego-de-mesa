@@ -11,6 +11,7 @@ class Inicio{
 		//Cartas car;
 		//struct Pos;
 		Inicio(Pos* baraja, Cartas);
+		ing getplayers();
 	private:
 		Revolver(int* baraja);
 };

@@ -1,6 +1,7 @@
 #ifndef TABLERO
 #define TABLERO
 #include <iostream>
+#include "./Inicio.h"
 
 using namespace std;
 
